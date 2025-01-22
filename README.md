@@ -51,9 +51,9 @@ J --> |Bucket| K[mlflow]
 K --> |Artifacts| L[images]
 K --> |Artifacts| M[predictions]
 end
-classDef service fill:#f9f,stroke:#333,stroke-width:2px
-classDef storage fill:#bbf,stroke:#333,stroke-width:2px
-classDef client fill:#bfb,stroke:#333,stroke-width:2px
+classDef service fill:#a8e6cf,stroke:#333,stroke-width:2px
+classDef storage fill:#ffd3b6,stroke:#333,stroke-width:2px
+classDef client fill:#ffaaa5,stroke:#333,stroke-width:2px
 class A client
 class B,C,D,E,F,H service
 class I,J,K,L,M storage
